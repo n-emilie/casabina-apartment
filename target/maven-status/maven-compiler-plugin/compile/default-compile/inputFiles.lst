@@ -1,0 +1,11 @@
+C:\Users\Emilie\OneDrive\apartment\apartment\src\main\java\casabina\management\apartment\ApartmentApplication.java
+C:\Users\Emilie\OneDrive\apartment\apartment\src\main\java\casabina\management\apartment\application\DTO\ApartmentCreationDTO.java
+C:\Users\Emilie\OneDrive\apartment\apartment\src\main\java\casabina\management\apartment\application\DTO\ApartmentIdentityDTO.java
+C:\Users\Emilie\OneDrive\apartment\apartment\src\main\java\casabina\management\apartment\application\mapper\ApartmentMapper.java
+C:\Users\Emilie\OneDrive\apartment\apartment\src\main\java\casabina\management\apartment\application\service\ApartmentService.java
+C:\Users\Emilie\OneDrive\apartment\apartment\src\main\java\casabina\management\apartment\application\service\ApartmentServiceImpl.java
+C:\Users\Emilie\OneDrive\apartment\apartment\src\main\java\casabina\management\apartment\domain\model\Apartment.java
+C:\Users\Emilie\OneDrive\apartment\apartment\src\main\java\casabina\management\apartment\domain\repository\ApartmentRepository.java
+C:\Users\Emilie\OneDrive\apartment\apartment\src\main\java\casabina\management\apartment\exposition\ApartmentController.java
+C:\Users\Emilie\OneDrive\apartment\apartment\src\main\java\casabina\management\apartment\infrastructure\repository\ApartmentDAO.java
+C:\Users\Emilie\OneDrive\apartment\apartment\src\main\java\casabina\management\apartment\infrastructure\repository\ApartmentRepositoryImpl.java

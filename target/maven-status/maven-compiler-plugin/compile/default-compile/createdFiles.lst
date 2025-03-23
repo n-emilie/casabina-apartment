@@ -1,0 +1,12 @@
+casabina\management\apartment\application\service\ApartmentService.class
+casabina\management\apartment\domain\repository\ApartmentRepository.class
+casabina\management\apartment\infrastructure\repository\ApartmentRepositoryImpl.class
+casabina\management\apartment\domain\model\Apartment.class
+casabina\management\apartment\ApartmentApplication.class
+casabina\management\apartment\infrastructure\repository\ApartmentDAO.class
+casabina\management\apartment\application\DTO\ApartmentIdentityDTO.class
+casabina\management\apartment\application\mapper\ApartmentMapperImpl.class
+casabina\management\apartment\application\DTO\ApartmentCreationDTO.class
+casabina\management\apartment\exposition\ApartmentController.class
+casabina\management\apartment\application\mapper\ApartmentMapper.class
+casabina\management\apartment\application\service\ApartmentServiceImpl.class
